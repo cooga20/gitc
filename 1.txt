@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+one line
+two line
+>>>>>>> 39427e7 (second)

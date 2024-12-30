@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-=======
-one line
-two line
-<<<<<<< HEAD
->>>>>>> 39427e7 (second)
-=======
-three linge
->>>>>>> 647b88a (three)
